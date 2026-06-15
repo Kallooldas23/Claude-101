@@ -1,1 +1,2 @@
 Completed Claude 101 by Anthropic Academy, gaining hands-on experience in prompt engineering, AI-assisted research, workflow automation, knowledge management using Projects, creation of interactive Artifacts, and practical application of generative AI for productivity, analysis, and decision-making.
+Leveraged Claude AI for data interpretation, report generation, research synthesis, problem-solving, and workflow optimization using modern AI collaboration techniques.
